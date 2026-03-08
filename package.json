@@ -1,0 +1,21 @@
+{
+  "name": "outpost-research",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "split": "npx tsx scripts/1_split_video.ts",
+    "process": "npx tsx scripts/2_process_fragments.ts",
+    "merge": "npx tsx scripts/3_merge_results.ts",
+    "schema": "npx tsx scripts/4_generate_schema.ts",
+    "pipeline": "npm run split && npm run process && npm run merge && npm run schema"
+  },
+  "dependencies": {
+    "@google/genai": "^1.44.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
