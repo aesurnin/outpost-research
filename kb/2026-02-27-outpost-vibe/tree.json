@@ -1,0 +1,168 @@
+{
+  "structure": [
+    {
+      "node_id": "0001",
+      "title": "🎯 TL;DR (Executive Summary)",
+      "summary": "Встреча была посвящена обсуждению процессов продаж и маркетинга после слияния Outpost и Juno с целью выявления возможностей для AI-автоматизации. Ключевые проблемы, которые обсуждались: низкое качеств...",
+      "line_num": 3
+    },
+    {
+      "node_id": "0002",
+      "title": "🛠 Упомянутые системы (Entities)",
+      "summary": "- **CRM/Tools**: HubSpot, Stripe, Obligo, apartments.com",
+      "line_num": 6
+    },
+    {
+      "node_id": "0003",
+      "title": "📌 Ключевые решения и инсайты",
+      "summary": "- **Проблема качества лидов**: Три основные проблемы в продажах — необходимость верификации и сбора недостающих данных, неквалифицированные лиды и лиды, не выходящие на связь (non-responsive). AI може...",
+      "line_num": 10
+    },
+    {
+      "node_id": "0004",
+      "title": "📄 Полный контент",
+      "summary": "**Meeting:** [Outpost+Vibe](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06)",
+      "line_num": 18
+    },
+    {
+      "node_id": "0005",
+      "title": "✨ Summary",
+      "summary": "Встреча была посвящена состоянию и задачам по продажам и маркетингу после слияния Outpost и Juno с фокусом на возможностях автоматизации с помощью AI. Участники представили роли и команды — продуктовы...",
+      "line_num": 26
+    },
+    {
+      "node_id": "0006",
+      "title": "💬 Chapters & Topics",
+      "summary": "Участники здравствовали и уточнили присутствующих, отмечено, что Женя опоздает; затем предложено начинать встречу без полного состава.",
+      "line_num": 31,
+      "nodes": [
+        {
+          "node_id": "0007",
+          "title": "Приветствие и проверка участников [(01:14)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=notes)",
+          "summary": "Участники здравствовали и уточнили присутствующих, отмечено, что Женя опоздает; затем предложено начинать встречу без полного состава.",
+          "line_num": 33
+        },
+        {
+          "node_id": "0008",
+          "title": "Представления участников и роли [(01:46)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=notes)",
+          "summary": "Женя Тимченко представил себя и роль PLUS Vibe в AI-имплементации, описал свою продуктовую и клиентскую функцию и техническую команду (Саша, Леша). Участники Outpost/Juno кратко описали свои обязаннос...",
+          "line_num": 37
+        },
+        {
+          "node_id": "0009",
+          "title": "Формат встречи и цель обсуждения [(05:06)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=notes)",
+          "summary": "Женя пояснил цель — услышать команду по sales/marketing, описать цели и проблемы в свободной форме и далее детализировать вопросы по автоматизации и AI.",
+          "line_num": 41
+        },
+        {
+          "node_id": "0010",
+          "title": "Видение автоматизации и ограничения процесса бронирования [(05:34)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=notes)",
+          "summary": "Алекс подробно изложил «мечту» об автоматическом sales-процессе без человека, но обозначил реальные ограничения: необходимость доверия клиента, офлайн-показы и потребность в коммуникации при long-term...",
+          "line_num": 45
+        },
+        {
+          "node_id": "0011",
+          "title": "Проблемы лидогенерации и обработки лидов [(09:08)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=notes)",
+          "summary": "Обсуждены основные боли: неквалифицированные лиды, lacking detail leads, non-responsive leads, и идея расширить follow-up окно; отмечено, что AI может обрабатывать часть коммуникаций и реанимировать л...",
+          "line_num": 51
+        },
+        {
+          "node_id": "0012",
+          "title": "Скоринг, маршрутизация и дистрибуция лидов [(14:12)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=notes)",
+          "summary": "Джек предложил скоринг лидов по дате заезда и автоматическое распределение дальних дат на менее ресурсоёмкие пути; обсуждалась необходимость модели дистрибуции и учёта шифтов и перформанса при распред...",
+          "line_num": 58
+        },
+        {
+          "node_id": "0013",
+          "title": "Метрики, мотивация и мониторинг эффективности сейлзов [(19:59)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=notes)",
+          "summary": "Миша и Алекс подняли вопросы smart-дистрибуции с учётом навыков закрывать длинные/короткие сделки, изменения мотивации сейлзов на результат и создание дашбордов в реальном времени для мониторинга resp...",
+          "line_num": 65
+        },
+        {
+          "node_id": "0014",
+          "title": "Организационная структура команд и численность [(22:49)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=notes)",
+          "summary": "Обсуждение текущего количества сотрудников и структуры команд: подтверждён показатель около 35 человек и существование трёх сейлз‑команд. Уточнено историческое снижение числа городов/команд и распреде...",
+          "line_num": 71
+        },
+        {
+          "node_id": "0015",
+          "title": "Менеджмент, уровни отчётности и support [(24:37)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=notes)",
+          "summary": "Прояснены уровни менеджмента (менеджеры команд, их менеджер, Саша/Андреас как VP), обсуждена роль AI и Sales Support для поддержки менеджмента, а также отдельность Customer Support и переход клиентов ...",
+          "line_num": 77
+        },
+        {
+          "node_id": "0016",
+          "title": "Маркетинг, прайсинг и централизованная работа [(29:53)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=notes)",
+          "summary": "Подтверждено, что маркетинг и прайсинг работают под Alex и объединены с сейлз для согласованности; эта единая команда обслуживает все три сейлз‑потока и вносит изменения в воронки и сайты централизова...",
+          "line_num": 85
+        },
+        {
+          "node_id": "0017",
+          "title": "Путь клиента, CRM и операционные флоу (Outpost) [(31:06)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=notes)",
+          "summary": "Детализирован customer journey: лиды приходят с сайта и платформ, попадают в HubSpot и CRM, sales формирует офер, создаёт бронирование и запускает sales flow с application → оплата invoice → депозит; ...",
+          "line_num": 91
+        },
+        {
+          "node_id": "0018",
+          "title": "Вводные и переход к sales pipeline [(45:19)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=notes)",
+          "summary": "Короткие реплики участников и переход к обзору sales pipeline Junna/Outpost для формирования общей картины процесса и следующих шагов.",
+          "line_num": 97
+        },
+        {
+          "node_id": "0019",
+          "title": "Проблемы воронки и предложение AI-решений [(45:58)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=notes)",
+          "summary": "Обсуждение точек трения в воронке, желания применять AI для измерения сезонных и шаговых вариаций и примера 9% оттока на последнем шаге.",
+          "line_num": 101
+        },
+        {
+          "node_id": "0020",
+          "title": "Причины оттока и влияние предоплат (Outpost vs Junna) [(47:13)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=notes)",
+          "summary": "Сравнение практик: Outpost собирает депозиты и частичные платежи, Junna часто не собирает ничего до финала, что приводит к большему оттоку и сложностям с collection.",
+          "line_num": 108
+        },
+        {
+          "node_id": "0021",
+          "title": "Коммуникации, CRM и объединение каналов [(51:24)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=notes)",
+          "summary": "Описание текущих каналов (SMS, email, звонки), задача склеить их в единый поток, упоминание HubSpot как частичного решения и потребность в единой ленте коммуникаций.",
+          "line_num": 116
+        },
+        {
+          "node_id": "0022",
+          "title": "Различия пользовательских путей и логики выбора жилья [(53:25)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=notes)",
+          "summary": "Обсуждение логики Junna, где пользователь может заполнить профиль без выбора опции, и как это влияет на квалификацию и рекомендации по бюджету.",
+          "line_num": 122
+        },
+        {
+          "node_id": "0023",
+          "title": "Демонстрации, «тайный шоппинг» и тестовые проходы [(57:36)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=notes)",
+          "summary": "Запрос провести несколько демо-флоу и виртуальных клиентов, решение пройти воркфлоу как реальный клиент и обсуждение потенциальных затрат для тестирования.",
+          "line_num": 126
+        },
+        {
+          "node_id": "0024",
+          "title": "Закрытие и дальнейшие взаимодействия [(59:36)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=notes)",
+          "summary": "Финальные уточнения по оплате тестовых действий, договорённость о дальнейшем техническом обсуждении и завершающие слова участников.",
+          "line_num": 132
+        }
+      ]
+    },
+    {
+      "node_id": "0025",
+      "title": "✅ Action Items",
+      "summary": "*   **Team (техническая команда и Саша):** Подготовьте детальное обсуждение по триггерам, ивентам и тому, что отправлять в AI-компонент для интеграции [(45:26)](https://app.read.ai/analytics/meetings/...",
+      "line_num": 136
+    },
+    {
+      "node_id": "0026",
+      "title": "🔍 Key Questions",
+      "summary": "*   Сколько сейчас вообще команд и менеджеров? [(22:59)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=notes)",
+      "line_num": 145
+    },
+    {
+      "node_id": "0027",
+      "title": "🗣 Transcript",
+      "summary": "[(01:14)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=transcript) UNKNOWN\\_SPEAKER: Привет, привет.",
+      "line_num": 157
+    }
+  ]
+}

@@ -1,13 +1,3 @@
-```markdown
----
-id: 2026-02-25-интеграция-june-и-outpost
-date: 2026-02-25
-type: meeting_transcript
-tags: [sales, operations, integration, automation, crm, hubspot, zendesk, AI, LLM, fundraising, product_strategy]
-participants: [Eugene Tymchenko, Jack Molchanov, Alex Patsalo, Alexander Surnin, Oleksii Surnin, Sergii Starostin]
-status: processed
----
-
 # 2026-02-25 - Интеграция June и Outpost
 
 ## 🎯 TL;DR (Executive Summary)
@@ -518,4 +508,3 @@ Jack выразил намерение закрывать сделки и пре
 (01:29:59) Eugene Tymchenko: Тогда на связи. Если будут апдейты до вторника, то я напишу.
 (01:30:07) UNKNOWN\_SPEAKER: Добро.
 (01:30:08) Alexander Surnin: Хорошо. Давайте. Спасибо. Пока-пока. Всем пока. Спасибо.
-```

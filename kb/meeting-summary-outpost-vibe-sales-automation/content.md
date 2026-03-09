@@ -1,13 +1,3 @@
-```markdown
----
-id: meeting-summary-outpost-vibe-sales-automation-discovery-call
-date: 2026-02-27
-type: meeting_transcript
-tags: [sales, automation, hubspot, crm, nebo, klaviyo, lead scoring, lead distribution, outpost, jun, vibe]
-participants: [Alex Kos, Alex Patsalo, Alexander Surnin, Eugene Tymchenko, Mike Grishchenko, Jack Molchanov]
-status: processed
----
-
 # Meeting Summary: Outpost + Vibe — Sales & Automation Discovery Call
 
 ## 🎯 TL;DR (Executive Summary)
@@ -210,4 +200,3 @@ status: processed
 6.  Автоматизация верификации документов (сейчас ручная для 12+ мес.)?
 7.  Какой минимальный human touch нужно сохранить (конверсия +25% с сейлзом)?
 8.  Мотивация сейлзов при smart-дистрибуции — больше лидов лучшим, как растут остальные?
-```

@@ -1,0 +1,468 @@
+{
+  "structure": [
+    {
+      "node_id": "0001",
+      "title": "🎯 TL;DR (Executive Summary)",
+      "summary": "Здесь обсуждались процессы и интерфейсы. Разобрано 244 реплик, найдено 36 экранов и 9 UI-действий.",
+      "line_num": 3
+    },
+    {
+      "node_id": "0002",
+      "title": "📌 Озвученные Бизнес-правила (Business Rules)",
+      "summary": "- **Правило**: Основной канал продаж — входящие заявки (inbound).",
+      "line_num": 6
+    },
+    {
+      "node_id": "0003",
+      "title": "🎬 Полный лог (Аудио + Интерфейсы)",
+      "summary": "- [00:00:00] **🗣 SPEAKER_C**: Nice. Yeah, it's amazing, amazing place. I've fallen in love. Totally fallen in love.",
+      "line_num": 206,
+      "nodes": [
+        {
+          "node_id": "0004",
+          "title": "[00:00:00]",
+          "summary": "- [00:00:00] **🗣 SPEAKER_C**: Nice. Yeah, it's amazing, amazing place. I've fallen in love. Totally fallen in love.",
+          "line_num": 209
+        },
+        {
+          "node_id": "0005",
+          "title": "[00:01:00]",
+          "summary": "- [00:01:43] **🗣 SPEAKER_A**: No, no, I don't complain. I don't complain.",
+          "line_num": 229
+        },
+        {
+          "node_id": "0006",
+          "title": "[00:02:00]",
+          "summary": "- [00:02:00] **🗣 SPEAKER_A**: No, no, no. I'm not in a hurry. I always have, you know, white beard and everything, but I'm not, I'm not in a hurry yet.",
+          "line_num": 233
+        },
+        {
+          "node_id": "0007",
+          "title": "[00:03:00]",
+          "summary": "- [00:03:37] **🗣 SPEAKER_B**: So the the the primary goal of today's call is to to get a high-level understanding of the sales processes in your department. Um, also main metrics and KPIs that you fo...",
+          "line_num": 239
+        },
+        {
+          "node_id": "0008",
+          "title": "[00:04:00]",
+          "summary": "- [00:04:07] **🗣 SPEAKER_B**: Uh, yeah, we can start with the high-level overview how sales work in in and what's the sales process, uh, in your team, and then we can break it down and dig deeper int...",
+          "line_num": 242
+        },
+        {
+          "node_id": "0009",
+          "title": "[00:05:00]",
+          "summary": "- [00:05:00] **🗣 SPEAKER_A**: either or or both. Um in which case we call them details completed. We have all the available information that we need to to make a call and start talking with them basi...",
+          "line_num": 245
+        },
+        {
+          "node_id": "0010",
+          "title": "[00:06:00]",
+          "summary": "- [00:06:43] **🗣 SPEAKER_A**: Now, as we go towards the mid-season, which is coming April, and then May, June, July on and up until the end of October, this is what we have uh the shoulder period. So...",
+          "line_num": 254
+        },
+        {
+          "node_id": "0011",
+          "title": "[00:07:00]",
+          "summary": "- [00:07:19] **🗣 SPEAKER_A**: So during the mid and the high season, the volumes become that such that we may not be able to handle all lacking details. Um and obviously we de-prioritize this because...",
+          "line_num": 257
+        },
+        {
+          "node_id": "0012",
+          "title": "[00:08:00]",
+          "summary": "- [00:08:08] **🗣 SPEAKER_A**: Now, there is a kind of a technical thing there that Alex might also help us understand a bit better. I, I mean, high level the way I understand it is every single detai...",
+          "line_num": 260
+        },
+        {
+          "node_id": "0013",
+          "title": "[00:09:00]",
+          "summary": "- [00:09:02] **🗣 SPEAKER_A**: So from a data perspective, we don't really understand, or I mean, I haven't got any actual data which shows that how many lacking details, actual lacking details... I m...",
+          "line_num": 263
+        },
+        {
+          "node_id": "0014",
+          "title": "[00:10:00]",
+          "summary": "- [00:10:00] **🗣 SPEAKER_A**: it's low intense. And of course, in general, uh, we can like compare not only just like in details status, but also source of the lead.",
+          "line_num": 267
+        },
+        {
+          "node_id": "0015",
+          "title": "[00:11:00]",
+          "summary": "- [00:11:42] **🗣 SPEAKER_B**: Like, because for, for example, all apartments.com leads, they are all lacking details in the beginning. Yeah. You know, and it's just like again, the same lead on Spare...",
+          "line_num": 279
+        },
+        {
+          "node_id": "0016",
+          "title": "[00:12:00]",
+          "summary": "- [00:12:10] **🗣 SPEAKER_A**: Yeah. Yeah, and like most of cases when I'm talking about like uh like in details who actually could convert and could convert with high like high potential to convert, ...",
+          "line_num": 286
+        },
+        {
+          "node_id": "0017",
+          "title": "[00:13:00]",
+          "summary": "- [00:13:39] **🗣 SPEAKER_B**: Okay. Yeah, whereas in platforms like apartments.com for example, you only need to register your moving date and then your email and and maybe your phone number is not m...",
+          "line_num": 292
+        },
+        {
+          "node_id": "0018",
+          "title": "[00:14:00]",
+          "summary": "- [00:14:01] **🗣 SPEAKER_B**: Um, and then basically, we call them back and we ask them what the move out dates and maybe if they don't have a phone number, we also ask the phone number and stuff.",
+          "line_num": 298
+        },
+        {
+          "node_id": "0019",
+          "title": "[00:15:00]",
+          "summary": "- [00:15:00] **🗣 SPEAKER_A**: two follow ups, they don't convert to details completed, which means that they don't fill in their move out dates or any other important information that we're missing t...",
+          "line_num": 304
+        },
+        {
+          "node_id": "0020",
+          "title": "[00:16:00]",
+          "summary": "- [00:16:45] **🗣 SPEAKER_B**: again, depending on the capacity, the sales agents might do an active follow-up from their side. When we had the cold team, it was at least one follow-up as well, active...",
+          "line_num": 319
+        },
+        {
+          "node_id": "0021",
+          "title": "[00:17:00]",
+          "summary": "- [00:17:06] **🗣 SPEAKER_A**: We do have cases where, but because it doesn't cost us a lot to do that, we we we we run it regardless, but the success rates, I don't think they're too high.",
+          "line_num": 323
+        },
+        {
+          "node_id": "0022",
+          "title": "[00:18:00]",
+          "summary": "- [00:18:04] **🗣 SPEAKER_A**: Right. So when we qualify the leads and we have the discussions with them, they have to fill in an application. Um, and they have to complete the application with certai...",
+          "line_num": 334
+        },
+        {
+          "node_id": "0023",
+          "title": "[00:19:00]",
+          "summary": "- [00:19:09] **🗣 SPEAKER_A**: We're sending them the contract, and then once they sign the contract, they also have to make all the upfront payments like the deposits and things like that. Uh now if ...",
+          "line_num": 339
+        },
+        {
+          "node_id": "0024",
+          "title": "[00:20:00]",
+          "summary": "- [00:20:00] **🗣 SPEAKER_B**: which is in our in the June Homes case. Uh So it's not fully, fully, fully automated, but we still don't need to adjust anything in the contract. The the information for...",
+          "line_num": 344
+        },
+        {
+          "node_id": "0025",
+          "title": "[00:22:00]",
+          "summary": "- [00:22:10] **🗣 SPEAKER_C**: Okay. Gotcha.",
+          "line_num": 355
+        },
+        {
+          "node_id": "0026",
+          "title": "[00:24:00]",
+          "summary": "- [00:24:04] **🗣 SPEAKER_C**: Okay.",
+          "line_num": 360
+        },
+        {
+          "node_id": "0027",
+          "title": "[00:25:00]",
+          "summary": "- [00:25:00] **🗣 Andreas Efthymiou**: half an hour to 40 minutes per day for each sales team leader. And if you ask me, I'm not too sure about the results of all of it. Um, I know that people provide...",
+          "line_num": 369
+        },
+        {
+          "node_id": "0028",
+          "title": "[00:27:00]",
+          "summary": "- [00:27:08] **🗣 Andreas Efthymiou**: Yeah, I think it would help.",
+          "line_num": 376
+        },
+        {
+          "node_id": "0029",
+          "title": "[00:28:00]",
+          "summary": "- [00:28:57] **🗣 Alexander Surmin**: Yeah. And uh, how do you think, uh, how much, uh, how much conversion you, uh, lost in this, uh, in this data?",
+          "line_num": 380
+        },
+        {
+          "node_id": "0030",
+          "title": "[00:29:00]",
+          "summary": "- [00:29:11] **🗣 Andreas Efthymiou**: You cannot calculate. I don't think we can calculate this.",
+          "line_num": 383
+        },
+        {
+          "node_id": "0031",
+          "title": "[00:30:00]",
+          "summary": "- [00:30:00] **🗣 SPEAKER_A**: we didn't we didn't track length of stay as a goal. We didn't track the the revenue and we didn't track um the average price per deal.",
+          "line_num": 388
+        },
+        {
+          "node_id": "0032",
+          "title": "[00:31:00]",
+          "summary": "- [00:31:45] **🗣 SPEAKER_A**: to when it's been completed. Because you might start an application and leave it halfway through and then we'll have to follow up with the lead, tell them what they need...",
+          "line_num": 401
+        },
+        {
+          "node_id": "0033",
+          "title": "[00:32:00]",
+          "summary": "- [00:32:27] **🗣 SPEAKER_A**: Then in the middle, so we have the application started, application completed. Then in the middle sits the KYC, which is where the leads are being asked to provide any e...",
+          "line_num": 404
+        },
+        {
+          "node_id": "0034",
+          "title": "[00:33:00]",
+          "summary": "- [00:33:38] **🗣 SPEAKER_A**: So we don't track it there. This is not a KPI for us. And then what is what is a KPI for us is that after the the lead is being approved, uh all the way down to signing ...",
+          "line_num": 407
+        },
+        {
+          "node_id": "0035",
+          "title": "[00:34:00]",
+          "summary": "- [00:34:12] **🗣 SPEAKER_A**: So these are one of the two of the KPIs that we have. And then we also have sales response rates where we track how many emails are being answered um under 45 minutes.",
+          "line_num": 410
+        },
+        {
+          "node_id": "0036",
+          "title": "[00:35:00]",
+          "summary": "- [00:35:01] **🗣 SPEAKER_A**: So being all the time or very long time logged in Amazon means you have incoming calls. If you don't respond them, then they're missed calls. Um, so basically what we di...",
+          "line_num": 415
+        },
+        {
+          "node_id": "0037",
+          "title": "[00:36:00]",
+          "summary": "- [00:36:46] **🗣 SPEAKER_A**: Um, yeah, we do have this one as well. It's what we say from um, well we have from MQL to application started. So it might be an MQL who landed, they send their request ...",
+          "line_num": 421
+        },
+        {
+          "node_id": "0038",
+          "title": "[00:37:00]",
+          "summary": "- [00:37:00] **👁 Экран**: Экран видеоконференции в Google Meet. Видно 6 участников в отдельных окнах и одно окно с надписью 'Recording and taking notes'.",
+          "line_num": 424
+        },
+        {
+          "node_id": "0039",
+          "title": "[00:38:00]",
+          "summary": "- [00:38:40] **🗣 SPEAKER_A**: So we wanted to have all lacking details, uh, complete their details missing and then start the application. So that was basically their KPI.",
+          "line_num": 439
+        },
+        {
+          "node_id": "0040",
+          "title": "[00:39:00]",
+          "summary": "- [00:39:02] **🗣 SPEAKER_B**: Application started. Was the end? Up there was the end for them because after that we took over.",
+          "line_num": 442
+        },
+        {
+          "node_id": "0041",
+          "title": "[00:40:00]",
+          "summary": "- [00:40:00] **🗣 SPEAKER_C**: is 52%.",
+          "line_num": 446
+        },
+        {
+          "node_id": "0042",
+          "title": "[00:42:00]",
+          "summary": "- [00:42:08] **🗣 SPEAKER_B**: So if it's only an email, that would be not an MQL lead. No, no, no. It it will be an MQL. So just one contact detail, it could be phone either email. Okay. I got it.",
+          "line_num": 462
+        },
+        {
+          "node_id": "0043",
+          "title": "[00:44:00]",
+          "summary": "- [00:44:00] **👁 Экран**: На экране демонстрируется дашборд с бар-чартом, показывающим конверсию по месяцам. В сентябре (Sep 2024) значение конверсии составляет 52,0%. На графике две линии: красная (...",
+          "line_num": 468
+        },
+        {
+          "node_id": "0044",
+          "title": "[00:45:00]",
+          "summary": "- [00:45:00] **🗣 SPEAKER_B**: is that this is a good fit, uh a good quality lead, but they don't have all the required documents readily available. We might conditionally approve them to move forward...",
+          "line_num": 476
+        },
+        {
+          "node_id": "0045",
+          "title": "[00:46:00]",
+          "summary": "- [00:46:35] **👁 Экран**: The screen switches from the dashboard to a gallery view of the Google Meet participants. Participants visible include Alexander Surnin, Eugene Tymchenko, Andreas Efthymiou,...",
+          "line_num": 485
+        },
+        {
+          "node_id": "0046",
+          "title": "[00:47:00]",
+          "summary": "- [00:47:04] **🗣 SPEAKER_C**: Yeah. Got it.",
+          "line_num": 496
+        },
+        {
+          "node_id": "0047",
+          "title": "[00:48:00]",
+          "summary": "- [00:48:20] **🗣 SPEAKER_C**: So the question is, where do we see...",
+          "line_num": 503
+        },
+        {
+          "node_id": "0048",
+          "title": "[00:49:00]",
+          "summary": "- [00:49:00] **🗣 SPEAKER_B**: Right. So for New York, the main issue is... comparing, we are comparing here January and February 2025 with January and February 2026.",
+          "line_num": 510
+        },
+        {
+          "node_id": "0049",
+          "title": "[00:50:00]",
+          "summary": "- [00:50:00] **🗣 Andreas Efthymiou**: insane some requirements there. We we are monitoring if this is the case.",
+          "line_num": 517
+        },
+        {
+          "node_id": "0050",
+          "title": "[00:55:00]",
+          "summary": "- [00:55:34] **🗣 Mike Grishchenko**: And difference between June and Outpost uh that in June site is just 20 20 bucks uh application fee for Outpost is 20 bucks plus deposit for the first month. It's...",
+          "line_num": 526
+        },
+        {
+          "node_id": "0051",
+          "title": "[00:56:00]",
+          "summary": "- [00:56:02] **🗣 Andreas Efthymiou**: In outpost it's it's an altogether different process. Uh it's it's completely different process because they have to pay for the they have to pay the deposit bef...",
+          "line_num": 531
+        },
+        {
+          "node_id": "0052",
+          "title": "[00:57:00]",
+          "summary": "- [00:57:02] **🖱 UI-Действие**: Andreas clicks on a dropdown menu on the dashboard to select a metric for the chart.",
+          "line_num": 546
+        },
+        {
+          "node_id": "0053",
+          "title": "[00:58:00]",
+          "summary": "- [00:58:02] **🗣 Eugene Tymchenko**: And you uh measure the qualification quality by how much how many how many leads from uh lacking data moved to the full data, right?",
+          "line_num": 558
+        },
+        {
+          "node_id": "0054",
+          "title": "[00:59:00]",
+          "summary": "- [00:59:04] **🗣 Andreas Efthymiou**: Now, without this team in place, I'm not sure if the conversion rates can remain at this level.",
+          "line_num": 563
+        },
+        {
+          "node_id": "0055",
+          "title": "[01:00:00]",
+          "summary": "- [01:00:00] **👁 Экран**: Экран видеоконференции в Google Meet. Видны 6 участников: Alexander Surnin, Andreas Efthymiou, Eugene Tymchenko, Oleksii Surnin, Alex Patsalo, Mike Grischenchenko.",
+          "line_num": 570
+        },
+        {
+          "node_id": "0056",
+          "title": "[01:01:00]",
+          "summary": "- [01:01:46] **🗣 SPEAKER_A**: That's the next bottleneck. And then the final, final bottleneck is the payment of the upfront, is the upfront payments.",
+          "line_num": 582
+        },
+        {
+          "node_id": "0057",
+          "title": "[01:02:00]",
+          "summary": "- [01:02:31] **🗣 SPEAKER_A**: So that's the final bottleneck that we have there.",
+          "line_num": 586
+        },
+        {
+          "node_id": "0058",
+          "title": "[01:03:00]",
+          "summary": "- [01:03:16] **👁 Экран**: На экране дашборд 'Lost Reasons'. Построен столбчатый график, показывающий распределение причин отказа по месяцам.",
+          "line_num": 604
+        },
+        {
+          "node_id": "0059",
+          "title": "[01:04:00]",
+          "summary": "- [01:04:20] **🗣 SPEAKER_A**: Or if they do, we do record it. If they don't, uh, we'll we'll label it as not interested. So anything, any lead that we have had contact with them uh in the past and fi...",
+          "line_num": 624
+        },
+        {
+          "node_id": "0060",
+          "title": "[01:05:00]",
+          "summary": "- [01:05:00] **🗣 Andreas Efthymiou**: is not interested.",
+          "line_num": 627
+        },
+        {
+          "node_id": "0061",
+          "title": "[01:06:00]",
+          "summary": "- [01:06:51] **🗣 Eugene Tymchenko**: And I'm curious to understand what what uh in this case not interested mean then.",
+          "line_num": 643
+        },
+        {
+          "node_id": "0062",
+          "title": "[01:07:00]",
+          "summary": "- [01:07:08] **🗣 Andreas Efthymiou**: So and not interested is we had some conversation, we discussed and then at one point they disappeared without providing any reason.",
+          "line_num": 652
+        },
+        {
+          "node_id": "0063",
+          "title": "[01:08:00]",
+          "summary": "- [01:08:30] **🗣 Andreas Efthymiou**: So I would say about 20% is price related.",
+          "line_num": 667
+        },
+        {
+          "node_id": "0064",
+          "title": "[01:09:00]",
+          "summary": "- [01:09:02] **🗣 Eugene Tymchenko**: Okay.",
+          "line_num": 674
+        },
+        {
+          "node_id": "0065",
+          "title": "[01:10:00]",
+          "summary": "- [01:10:00] **🗣 SPEAKER_A**: take photographs of the unit in the new state after the checkout, when it's ready to move in for the next move in. And we can offer them to send these photographs as wel...",
+          "line_num": 679
+        },
+        {
+          "node_id": "0066",
+          "title": "[01:11:00]",
+          "summary": "- [01:11:48] **🗣 SPEAKER_A**: And then taking better photographs so that people can have a better view of what the actual unit looks like. And then when we take them on tour, um make sure that it's i...",
+          "line_num": 684
+        },
+        {
+          "node_id": "0067",
+          "title": "[01:12:00]",
+          "summary": "- [01:12:05] **🗣 SPEAKER_A**: So these are the three things that we need to to do. If you ask me, from a reverse order, basically upgrade them, refresh them, revamp them, and then take nice photograp...",
+          "line_num": 687
+        },
+        {
+          "node_id": "0068",
+          "title": "[01:13:00]",
+          "summary": "- [01:13:22] **🗣 SPEAKER_B**: Okay. Got it.",
+          "line_num": 693
+        },
+        {
+          "node_id": "0069",
+          "title": "[01:14:00]",
+          "summary": "- [01:14:07] **🗣 SPEAKER_A**: Mike, they were not even doing that for over a year and a half already. We we used to call them virtual tour agents, but they stopped doing the virtual tours over a year...",
+          "line_num": 698
+        },
+        {
+          "node_id": "0070",
+          "title": "[01:15:00]",
+          "summary": "- [01:15:00] **🗣 SPEAKER_A**: apartment was not clean, I don't know, and uh and nobody uh cares about uh customer experience. They just getting money for the fact that they opened the door.",
+          "line_num": 701
+        },
+        {
+          "node_id": "0071",
+          "title": "[01:16:00]",
+          "summary": "- [01:16:51] **🗣 SPEAKER_B**: Okay. That's uh good enough, I would say.",
+          "line_num": 712
+        },
+        {
+          "node_id": "0072",
+          "title": "[01:17:00]",
+          "summary": "- [01:17:03] **🗣 SPEAKER_C**: The no response rate. It's also a very big challenge for us. I mean, one in three, no response, um, is quite high. It used to be higher, I think it used to be around 40%...",
+          "line_num": 717
+        },
+        {
+          "node_id": "0073",
+          "title": "[01:18:00]",
+          "summary": "- [01:18:30] **🗣 SPEAKER_B**: Uh, okay, it's clear enough. We are slightly off time, but that was very helpful. Thank you, Andreas for a lot of information and we'll definitely, uh, get back to you w...",
+          "line_num": 723
+        },
+        {
+          "node_id": "0074",
+          "title": "[01:19:00]",
+          "summary": "- [01:19:16] **🗣 SPEAKER_B**: That might not be one lead because there is a delay and it's a long-term process, but we need to, uh, get the perspective of each step in a funnel. So it could be differ...",
+          "line_num": 727
+        },
+        {
+          "node_id": "0075",
+          "title": "[01:20:00]",
+          "summary": "- [01:20:36] **🗣 SPEAKER_B**: You can use whatever platform you need to do that. It should be just a video with the commentary of the recorder, basically, what they do and how they, and why they do i...",
+          "line_num": 740
+        },
+        {
+          "node_id": "0076",
+          "title": "[01:21:00]",
+          "summary": "- [01:21:44] **🗣 SPEAKER_C**: Okay.",
+          "line_num": 745
+        },
+        {
+          "node_id": "0077",
+          "title": "[01:22:00]",
+          "summary": "- [01:22:03] **🗣 SPEAKER_A**: Okay. Thanks a lot. Really appreciate it. Thank you. Bye bye. Thank you.",
+          "line_num": 750
+        }
+      ]
+    }
+  ]
+}

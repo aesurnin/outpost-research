@@ -1,12 +1,3 @@
----
-id: 2026-03-05-16-45-31
-date: 2026-03-08
-type: video_demo
-tags: [video, transcription, processed]
-participants: ["Yevhen Tymchenko"]
-status: processed
----
-
 # Разбор видео: 2026-03-05 16-45-31
 
 ## 🎯 TL;DR (Executive Summary)

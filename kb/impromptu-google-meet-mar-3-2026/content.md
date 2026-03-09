@@ -1,12 +1,3 @@
----
-id: impromptu-google-meet-meeting-mar-3-2026
-date: 2026-03-08
-type: video_demo
-tags: [video, transcription, processed]
-participants: ["Eugene Tymchenko / Alex Patsalo / Mike Grishchenko / Jack Molchanov / Неизвестно", "Alex Patsalo / Alexander Surnin / Eugene Tymchyshyn / Mike Grishchenko / Jack Molchanov", "Alexander Surnin / Eugene Tymchenko / Jack Molchanov / Alexander Sur / Alex Patsalo", "Jack Molchanov / Mike Grishchenko", "Eugene Tymchenko / Alex Patsalo / Jack Molchanov", "Alexander Surnin / Oleksii Surnin / Alex Patsalo", "Alex Patsalo", "Eugene Tymchenko", "Alexander Sur", "Mike Grishchenko", "Alexander Surnin", "Oleksii Surnin", "Jack Molchanov", "Jack Molchanov", "Taylor / Andreas"]
-status: processed
----
-
 # Разбор видео: Impromptu Google Meet Meeting - Mar 3 2026
 
 ## 🎯 TL;DR (Executive Summary)

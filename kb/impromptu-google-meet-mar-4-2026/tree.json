@@ -1,0 +1,414 @@
+{
+  "structure": [
+    {
+      "node_id": "0001",
+      "title": "🎯 TL;DR (Executive Summary)",
+      "summary": "Здесь обсуждались процессы и интерфейсы. Разобрано 285 реплик, найдено 36 экранов и 21 UI-действий.",
+      "line_num": 3
+    },
+    {
+      "node_id": "0002",
+      "title": "📌 Озвученные Бизнес-правила (Business Rules)",
+      "summary": "- **Правило**: Все лиды (с сайта, Google Ads, сторонних платформ) попадают в единый централизованный рабочий процесс (workflow) в HubSpot.",
+      "line_num": 6
+    },
+    {
+      "node_id": "0003",
+      "title": "🎬 Полный лог (Аудио + Интерфейсы)",
+      "summary": "- [00:00:00] **🗣 SPEAKER_A**: Yeah yeah, this one. At least this one. Let's see what's happening with mine.",
+      "line_num": 178,
+      "nodes": [
+        {
+          "node_id": "0004",
+          "title": "[00:00:00]",
+          "summary": "- [00:00:00] **🗣 SPEAKER_A**: Yeah yeah, this one. At least this one. Let's see what's happening with mine.",
+          "line_num": 181
+        },
+        {
+          "node_id": "0005",
+          "title": "[00:01:00]",
+          "summary": "- [00:01:48] **🗣 SPEAKER_C**: Um, they hit our uh, CRM, which I'm sure you're already aware, we use uh HubSpot.",
+          "line_num": 191
+        },
+        {
+          "node_id": "0006",
+          "title": "[00:02:00]",
+          "summary": "- [00:02:09] **👁 Экран**: Видео-звонок в Google Meet с 6 участниками: Eugene Tymchenko, Taylor Post, Oleksii Surnin, Mike Grishchenko, Alexander Surnin, и бот-ассистент Fathom.",
+          "line_num": 194
+        },
+        {
+          "node_id": "0007",
+          "title": "[00:03:00]",
+          "summary": "- [00:03:30] **👁 Экран**: Taylor Post начинает демонстрацию экрана. На экране открыт HubSpot, страница контакта 'Carolina Pallio'.",
+          "line_num": 209
+        },
+        {
+          "node_id": "0008",
+          "title": "[00:04:00]",
+          "summary": "- [00:04:13] **🗣 SPEAKER_C**: offline source, hold on. Uh, influencer things, specific agents get specific, um, leads depending on the source itself. And eventually, and this is what actually matters...",
+          "line_num": 239
+        },
+        {
+          "node_id": "0009",
+          "title": "[00:05:00]",
+          "summary": "- [00:05:00] **🗣 SPEAKER_A**: is that is to ensure that the the client was reached out to, some way, shape or form.",
+          "line_num": 242
+        },
+        {
+          "node_id": "0010",
+          "title": "[00:06:00]",
+          "summary": "- [00:06:05] **👁 Экран**: The screen shows the HubSpot workflow again, this time with the delay action details for 7 days visible on the left.",
+          "line_num": 261
+        },
+        {
+          "node_id": "0011",
+          "title": "[00:07:00]",
+          "summary": "- [00:07:02] **🗣 SPEAKER_B**: Task for supervisor?",
+          "line_num": 268
+        },
+        {
+          "node_id": "0012",
+          "title": "[00:08:00]",
+          "summary": "- [00:08:26] **👁 Экран**: The presenter stops sharing her screen. The view switches to a grid of the meeting participants.",
+          "line_num": 276
+        },
+        {
+          "node_id": "0013",
+          "title": "[00:09:00]",
+          "summary": "- [00:09:06] **🖱 UI-Действие**: Eugene asks Taylor to scroll down, and she complies.",
+          "line_num": 289
+        },
+        {
+          "node_id": "0014",
+          "title": "[00:10:00]",
+          "summary": "- [00:10:00] **🗣 SPEAKER_A**: of this funnel means what exactly? What happens after that?",
+          "line_num": 298
+        },
+        {
+          "node_id": "0015",
+          "title": "[00:11:00]",
+          "summary": "- [00:11:39] **🗣 SPEAKER_B**: Can you see it? Yeah.",
+          "line_num": 327
+        },
+        {
+          "node_id": "0016",
+          "title": "[00:12:00]",
+          "summary": "- [00:12:00] **🗣 SPEAKER_B**: Branch 30 yeah, not not met.",
+          "line_num": 336
+        },
+        {
+          "node_id": "0017",
+          "title": "[00:13:00]",
+          "summary": "- [00:13:28] **🗣 SPEAKER_A**: Okay.",
+          "line_num": 376
+        },
+        {
+          "node_id": "0018",
+          "title": "[00:14:00]",
+          "summary": "- [00:14:15] **🗣 SPEAKER_B**: Um, so this is Ashley. Um, Ashley received this lead at, you know, 1:35 p.m. Um, her, she is one of the agents who has a uh a text that goes out. This is, it's formatted...",
+          "line_num": 382
+        },
+        {
+          "node_id": "0019",
+          "title": "[00:15:00]",
+          "summary": "- [00:15:00] **🗣 SPEAKER_A**: you know, she's already asked me about this client and this particular house, so we'll see what she does there.",
+          "line_num": 385
+        },
+        {
+          "node_id": "0020",
+          "title": "[00:16:00]",
+          "summary": "- [00:16:48] **🗣 SPEAKER_A**: They can always edit these accordingly in here. Um, they would pull the offer from Nebo itself.",
+          "line_num": 426
+        },
+        {
+          "node_id": "0021",
+          "title": "[00:17:00]",
+          "summary": "- [00:17:02] **🗣 SPEAKER_A**: Um, then a day later, another email goes out, uh, asks for them to book a call if they're interested or maybe secure their spot.",
+          "line_num": 430
+        },
+        {
+          "node_id": "0022",
+          "title": "[00:18:00]",
+          "summary": "- [00:18:36] **👁 Экран**: User closes the sequence modal and is back on the contact record's 'Emails' tab.",
+          "line_num": 445
+        },
+        {
+          "node_id": "0023",
+          "title": "[00:19:00]",
+          "summary": "- [00:19:01] **🗣 SPEAKER_A**: If they respond back to the email, that will break the en the enrollment.",
+          "line_num": 456
+        },
+        {
+          "node_id": "0024",
+          "title": "[00:20:00]",
+          "summary": "- [00:20:00] **🗣 SPEAKER_B**: Okay. Got it. Thank you.",
+          "line_num": 461
+        },
+        {
+          "node_id": "0025",
+          "title": "[00:21:00]",
+          "summary": "- [00:21:45] **🗣 SPEAKER_A**: It's just a different form of communication. Sometimes people don't uh some people don't like email, some people don't like text, some people want to talk to that person...",
+          "line_num": 476
+        },
+        {
+          "node_id": "0026",
+          "title": "[00:22:00]",
+          "summary": "- [00:22:30] **🗣 SPEAKER_B**: How do you how do they know when it's a good time to call?",
+          "line_num": 479
+        },
+        {
+          "node_id": "0027",
+          "title": "[00:23:00]",
+          "summary": "- [00:23:21] **🗣 SPEAKER_B**: if this customer needs a call.",
+          "line_num": 483
+        },
+        {
+          "node_id": "0028",
+          "title": "[00:25:00]",
+          "summary": "- [00:25:00] **🗣 SPEAKER_B**: Okay. So, but I mean this is this is uh, up to the agent when to call and how to call. Basically there is no uh requirement to call them at some point of time except mis...",
+          "line_num": 490
+        },
+        {
+          "node_id": "0029",
+          "title": "[00:26:00]",
+          "summary": "- [00:26:49] **🗣 SPEAKER_B**: My question is what what does it mean active at a time?",
+          "line_num": 501
+        },
+        {
+          "node_id": "0030",
+          "title": "[00:27:00]",
+          "summary": "- [00:27:00] **👁 Экран**: The presenter is showing a contact page for 'Care Giles' within a CRM, likely HubSpot. The main panel shows contact activity, while the right sidebar displays associated Com...",
+          "line_num": 505
+        },
+        {
+          "node_id": "0031",
+          "title": "[00:28:00]",
+          "summary": "- [00:28:25] **🗣 SPEAKER_A**: Um, once, you know, they're marked as closed one, they remove from their cap. Like the lead is one, it is good, we're fine. As soon as they're marked as closed lost, the...",
+          "line_num": 534
+        },
+        {
+          "node_id": "0032",
+          "title": "[00:29:00]",
+          "summary": "- [00:29:14] **🗣 SPEAKER_A**: Yeah, that depends on the agent and what the day looks like. I mean, like, uh, right now, give me a second.",
+          "line_num": 538
+        },
+        {
+          "node_id": "0033",
+          "title": "[00:30:00]",
+          "summary": "- [00:30:00] **🗣 SPEAKER_A**: My agents are all commission agents, they're not salaried. So they don't sit in front of a computer all day.",
+          "line_num": 552
+        },
+        {
+          "node_id": "0034",
+          "title": "[00:31:00]",
+          "summary": "- [00:31:03] **🗣 SPEAKER_D**: and but it's less, it's less than so every week we have about I don't know, so five-digit number of leads on June's side and four number uh leads on our side. I don't re...",
+          "line_num": 569
+        },
+        {
+          "node_id": "0035",
+          "title": "[00:32:00]",
+          "summary": "- [00:32:00] **🗣 SPEAKER_B**: Okay.",
+          "line_num": 579
+        },
+        {
+          "node_id": "0036",
+          "title": "[00:33:00]",
+          "summary": "- [00:33:33] **🗣 SPEAKER_C**: Yeah, any bottlenecks.",
+          "line_num": 592
+        },
+        {
+          "node_id": "0037",
+          "title": "[00:34:00]",
+          "summary": "- [00:34:03] **🗣 SPEAKER_A**: Um, that an agent might be like, hey, like, I have this for the summer, are you ready to book? And they're like, no, I'm gonna keep looking around. and like an agent wou...",
+          "line_num": 597
+        },
+        {
+          "node_id": "0038",
+          "title": "[00:35:00]",
+          "summary": "- [00:35:00] **🗣 SPEAKER_A**: Uh, we do it through Nebo, if anything. Um, so, but again,",
+          "line_num": 600
+        },
+        {
+          "node_id": "0039",
+          "title": "[00:36:00]",
+          "summary": "- [00:36:43] **🗣 SPEAKER_A**: Yeah.",
+          "line_num": 610
+        },
+        {
+          "node_id": "0040",
+          "title": "[00:37:00]",
+          "summary": "- [00:37:03] **🗣 SPEAKER_C**: Aha, okay.",
+          "line_num": 615
+        },
+        {
+          "node_id": "0041",
+          "title": "[00:38:00]",
+          "summary": "- [00:38:22] **🗣 SPEAKER_A**: On like maybe, we used to try to track uh points of contact, um, but to be honest, like because agents are using personal numbers, it's like impossible to track.",
+          "line_num": 642
+        },
+        {
+          "node_id": "0042",
+          "title": "[00:39:00]",
+          "summary": "- [00:39:02] **🗣 SPEAKER_B**: Total revenue and conversion rate, right?",
+          "line_num": 647
+        },
+        {
+          "node_id": "0043",
+          "title": "[00:40:00]",
+          "summary": "- [00:40:00] **🗣 Eugene Tymchyshyn**: Um so now let let's get back to the problems and uh challenges and connection. So basically, you track uh conversion rate which basically proportionally impacts ...",
+          "line_num": 652
+        },
+        {
+          "node_id": "0044",
+          "title": "[00:41:00]",
+          "summary": "- [00:41:52] **🗣 Taylor Post**: Um, another is probably, uh, current tenants not letting us know if they're going to extend, so they don't know if something's available. Does that make sense? Um, so ...",
+          "line_num": 684
+        },
+        {
+          "node_id": "0045",
+          "title": "[00:42:00]",
+          "summary": "- [00:42:00] **👁 Экран**: The screen displays a contact record for 'Claire Giles' within a CRM, likely HubSpot. The view remains static throughout the segment.",
+          "line_num": 688
+        },
+        {
+          "node_id": "0046",
+          "title": "[00:43:00]",
+          "summary": "- [00:43:26] **🗣 Taylor Post**: Right now moving dates, like uh a moving date too far in the future, there's only so much you can do. Like you can offer it but there's so much time that they're still...",
+          "line_num": 699
+        },
+        {
+          "node_id": "0047",
+          "title": "[00:44:00]",
+          "summary": "- [00:44:14] **🗣 Alexander Sur...**: I have one more question to this topic. So, uh, let's imagine you right now have some conversion rate. I I don't know exactly what number, but uh what is your lik...",
+          "line_num": 702
+        },
+        {
+          "node_id": "0048",
+          "title": "[00:45:00]",
+          "summary": "- [00:45:00] **🗣 Taylor Post**: excuse the actual results. Or someone apply or if you wanted to take it from deal instead. Um, maybe someone applies seven times and now they have seven deals. This is...",
+          "line_num": 705
+        },
+        {
+          "node_id": "0049",
+          "title": "[00:46:00]",
+          "summary": "- [00:46:55] **🗣 Taylor Post**: Um I I track from application to closure mostly, just because it's what it's available to me.",
+          "line_num": 727
+        },
+        {
+          "node_id": "0050",
+          "title": "[00:47:00]",
+          "summary": "- [00:47:04] **🗣 Taylor Post**: Um, but I will say we've pulled the data in the past. The problem is the connection between CRM and Nebo is a little off. So, um, the CRM, like for instance, we get a ...",
+          "line_num": 730
+        },
+        {
+          "node_id": "0051",
+          "title": "[00:48:00]",
+          "summary": "- [00:48:40] **🗣 Eugene Tymch...**: Okay.",
+          "line_num": 737
+        },
+        {
+          "node_id": "0052",
+          "title": "[00:49:00]",
+          "summary": "- [00:49:03] **🗣 Alexander Sur...**: Yeah, yeah, it's super super important. And uh how how do you feel uh is this is it real to build such systems that we can bring this conversion rate?",
+          "line_num": 742
+        },
+        {
+          "node_id": "0053",
+          "title": "[00:50:00]",
+          "summary": "- [00:50:00] **🗣 SPEAKER_B**: cost for those agents for for your agents team, except paying them fees?",
+          "line_num": 746
+        },
+        {
+          "node_id": "0054",
+          "title": "[00:51:00]",
+          "summary": "- [00:51:59] **🗣 Eugene Tymch...**: Mhm.",
+          "line_num": 757
+        },
+        {
+          "node_id": "0055",
+          "title": "[00:52:00]",
+          "summary": "- [00:52:08] **🗣 Eugene Tymch...**: Okay. So as I understand, it's a two-fold, two-fold metric. There are two, uh, aspects of it. One aspect is basically the performance of the agent, and the other o...",
+          "line_num": 760
+        },
+        {
+          "node_id": "0056",
+          "title": "[00:55:00]",
+          "summary": "- [00:55:00] **🗣 SPEAKER_A**: So, to summarize, your main metric is application to closure conversion rate, which is right now is about 25% on average.",
+          "line_num": 764
+        },
+        {
+          "node_id": "0057",
+          "title": "[01:00:00]",
+          "summary": "- [01:00:00] **🗣 Alexander Surmin**: so much, 10 leads, 50 leads, five leads?",
+          "line_num": 782
+        },
+        {
+          "node_id": "0058",
+          "title": "[01:01:00]",
+          "summary": "- [01:01:45] **🗣 Taylor Post**: Mhm.",
+          "line_num": 802
+        },
+        {
+          "node_id": "0059",
+          "title": "[01:02:00]",
+          "summary": "- [01:02:16] **🗣 Eugene Tymchyshyn**: Okay.",
+          "line_num": 806
+        },
+        {
+          "node_id": "0060",
+          "title": "[01:03:00]",
+          "summary": "- [01:03:00] **👁 Экран**: A static screen share of a CRM, likely HubSpot, shows the contact record for 'Claire Giles'. The left sidebar lists various contact properties such as 'Borough' (Manhattan) ...",
+          "line_num": 811
+        },
+        {
+          "node_id": "0061",
+          "title": "[01:04:00]",
+          "summary": "- [01:04:07] **🗣 Eugene Tymchyshyn**: Mhm.",
+          "line_num": 839
+        },
+        {
+          "node_id": "0062",
+          "title": "[01:05:00]",
+          "summary": "- [01:05:39] **🗣 SPEAKER_B**: the work questions",
+          "line_num": 843
+        },
+        {
+          "node_id": "0063",
+          "title": "[01:06:00]",
+          "summary": "- [01:06:46] **🗣 SPEAKER_A**: Like how like, it depends, like how to send an email.",
+          "line_num": 852
+        },
+        {
+          "node_id": "0064",
+          "title": "[01:07:00]",
+          "summary": "- [01:07:02] **🗣 SPEAKER_B**: Not on the emails, I mean, but the overall process, how do you close the lead from when it comes, you know, to to the end?",
+          "line_num": 858
+        },
+        {
+          "node_id": "0065",
+          "title": "[01:08:00]",
+          "summary": "- [01:08:54] **🗣 SPEAKER_B**: Um, so yeah, I will I will send you the write up what exactly we expect, but I need we we need your help, um, to to to to record, uh, video guide how that process is per...",
+          "line_num": 864
+        },
+        {
+          "node_id": "0066",
+          "title": "[01:09:00]",
+          "summary": "- [01:09:14] **🗣 SPEAKER_A**: Okay.",
+          "line_num": 867
+        },
+        {
+          "node_id": "0067",
+          "title": "[01:10:00]",
+          "summary": "- [01:10:00] **👁 Экран**: Стартовый экран инструмента для записи встреч Fathom. На темно-сером фоне отображается текст, информирующий о начале записи.",
+          "line_num": 875
+        },
+        {
+          "node_id": "0068",
+          "title": "[01:11:00]",
+          "summary": "- [01:11:52] **🗣 SPEAKER_B**: Thank you. Have a good one. Bye.",
+          "line_num": 885
+        }
+      ]
+    }
+  ]
+}

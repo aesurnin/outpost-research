@@ -1,0 +1,30 @@
+{
+  "structure": [
+    {
+      "node_id": "0001",
+      "title": "🎯 TL;DR (Executive Summary)",
+      "summary": "Здесь обсуждались процессы и интерфейсы. Разобрано 5 реплик, найдено 5 экранов и 7 UI-действий.",
+      "line_num": 3
+    },
+    {
+      "node_id": "0002",
+      "title": "📌 Озвученные Бизнес-правила (Business Rules)",
+      "summary": "- **Правило**: Персонализированное предложение для клиента будет готово через несколько часов после подачи заявки.",
+      "line_num": 6
+    },
+    {
+      "node_id": "0003",
+      "title": "🎬 Полный лог (Аудио + Интерфейсы)",
+      "summary": "- [00:00:00] **🗣 SPEAKER_A**: Let's now take a look on what I got from Outpost.",
+      "line_num": 14,
+      "nodes": [
+        {
+          "node_id": "0004",
+          "title": "[00:00:00]",
+          "summary": "- [00:00:00] **🗣 SPEAKER_A**: Let's now take a look on what I got from Outpost.",
+          "line_num": 17
+        }
+      ]
+    }
+  ]
+}

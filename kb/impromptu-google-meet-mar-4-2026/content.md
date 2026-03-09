@@ -1,12 +1,3 @@
----
-id: impromptu-google-meet-meeting-mar-4-2026
-date: 2026-03-08
-type: video_demo
-tags: [video, transcription, processed]
-participants: ["Eugene Tymchenko / Taylor Post / Eugene Tymchyshyn", "Taylor Post / Mike Grishchenko / Alexander Sur... / Eugene Tymchenko / Mike Grishche... / Alexander Surmin", "Mike Grishchenko / Eugene Tymchenko / Taylor Post / Eugene / Eugene Tymch... / Alexander / Eugene Tymch", "Mike Grishche... / Mike Grishchenko", "Eugene Tymchyshyn", "Taylor Post", "Alexander / Alexander Sur...", "Mike Grishchenko", "Eugene Tymchenko", "Alexander Surmin", "Oleksii Surnin", "Alexander"]
-status: processed
----
-
 # Разбор видео: Impromptu Google Meet Meeting - Mar 4 2026
 
 ## 🎯 TL;DR (Executive Summary)

@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
+    "generate-summary": "npx tsx scripts/generate-summary.ts",
     "split": "npx tsx scripts/1_split_video.ts",
     "process": "npx tsx scripts/2_process_fragments.ts",
     "merge": "npx tsx scripts/3_merge_results.ts",

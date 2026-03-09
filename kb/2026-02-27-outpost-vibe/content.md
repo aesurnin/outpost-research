@@ -1,13 +1,3 @@
-```markdown
----
-id: 2026-02-27-outpostvibe
-date: 2026-02-27
-type: meeting_transcript
-tags: [sales, marketing, automation, AI, crm, hubspot, leads, booking, customer journey, integration]
-participants: [Alex Kos, Alex Patsalo, Alexander Surnin, Eugene Tymchenko, Mike Grishchenko, Oleksii Surnin, Jack Molchanov]
-status: processed
----
-
 # 2026-02-27 - Outpost+Vibe
 
 ## 🎯 TL;DR (Executive Summary)
@@ -171,4 +161,3 @@ status: processed
 [(01:17)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=transcript) Alex Kos: Алексей. Я думал еще один Александр. Я думал такое было.  
 [(01:25)](https://app.read.ai/analytics/meetings/01KJG76SWXWYHSSW2G6ETKDN06?section=transcript) UNKNOWN\_SPEAKER: Алексей сломал парадигму.  
 ... [and so on, full transcript included] ...
-```

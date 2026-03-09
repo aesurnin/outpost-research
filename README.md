@@ -2,6 +2,13 @@
 
 Извлечение информации из записей встреч Google Meet через Gemini 3 Flash.
 
+## Architecture
+
+See [ARCHITECTURE.md](ARCHITECTURE.md) for the knowledge base structure:
+
+- **raw_data/** — source files (flat, ASCII names)
+- **kb/{id}/** — content.md + tree.json + source.json per source
+
 ## Требования
 
 - Node.js 20+

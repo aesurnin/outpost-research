@@ -1,12 +1,3 @@
----
-id: impromptu-google-meet-meeting-mar-5-2026
-date: 2026-03-08
-type: video_demo
-tags: [video, transcription, processed]
-participants: ["Andreas Efthymiou / Alexander Surmin / Alexander Surnin / Mike Grishchenko", "Eugene Tymchenko / Alex Patsalo / Andreas Efthymiou", "Alexander Surnin / Eugene Tymchenko / Alexander Surmin / Alex Patsalo / Andreas Efthymiou / Mike Grishchenko", "Andreas Efthymiou", "Alexander Surmin", "Eugene Tymchenko", "Alex Patsalo", "Mike Grishchenko"]
-status: processed
----
-
 # Разбор видео: Impromptu Google Meet Meeting - Mar 5 2026
 
 ## 🎯 TL;DR (Executive Summary)

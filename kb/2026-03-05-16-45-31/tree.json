@@ -1,0 +1,60 @@
+{
+  "structure": [
+    {
+      "node_id": "0001",
+      "title": "🎯 TL;DR (Executive Summary)",
+      "summary": "Здесь обсуждались процессы и интерфейсы. Разобрано 9 реплик, найдено 6 экранов и 14 UI-действий.",
+      "line_num": 3
+    },
+    {
+      "node_id": "0002",
+      "title": "📌 Озвученные Бизнес-правила (Business Rules)",
+      "summary": "- **Правило**: После отправки заявки на аренду пользователь не получает никакого email-подтверждения.",
+      "line_num": 6
+    },
+    {
+      "node_id": "0003",
+      "title": "🎬 Полный лог (Аудио + Интерфейсы)",
+      "summary": "- [00:00:01] **🗣 SPEAKER_A**: Okay, let's starting... let's start testing Outpost funnel.",
+      "line_num": 10,
+      "nodes": [
+        {
+          "node_id": "0004",
+          "title": "[00:00:00]",
+          "summary": "- [00:00:01] **🗣 SPEAKER_A**: Okay, let's starting... let's start testing Outpost funnel.",
+          "line_num": 13
+        },
+        {
+          "node_id": "0005",
+          "title": "[00:01:00]",
+          "summary": "- [00:01:41] **🗣 SPEAKER_A**: Okay, let's apply for this one.",
+          "line_num": 46
+        },
+        {
+          "node_id": "0006",
+          "title": "[00:02:00]",
+          "summary": "- [00:02:22] **🖱 UI-Действие**: Выбрал дату заезда (Move In Date) '20.04.2026'.",
+          "line_num": 53
+        },
+        {
+          "node_id": "0007",
+          "title": "[00:03:00]",
+          "summary": "- [00:03:27] **🗣 SPEAKER_A**: So the funnel ended here. Now I need to wait. Let's see what email says.",
+          "line_num": 67
+        },
+        {
+          "node_id": "0008",
+          "title": "[00:04:00]",
+          "summary": "- [00:04:07] **👁 Экран**: Пользователь вводит 'outpost' в строку поиска в Gmail.",
+          "line_num": 83
+        },
+        {
+          "node_id": "0009",
+          "title": "[00:05:00]",
+          "summary": "- [00:05:00] **🗣 SPEAKER_A**: This is quite concerning.",
+          "line_num": 91
+        }
+      ]
+    }
+  ]
+}
