@@ -6,6 +6,7 @@
     "split": "npx tsx scripts/1_split_video.ts",
     "process": "npx tsx scripts/2_process_fragments.ts",
     "merge": "npx tsx scripts/3_merge_results.ts",
+    "convert-texts": "npx tsx scripts/5_convert_texts_to_kb.ts",
     "schema": "npx tsx scripts/4_generate_schema.ts",
     "pipeline": "npm run split && npm run process && npm run merge && npm run schema"
   },
